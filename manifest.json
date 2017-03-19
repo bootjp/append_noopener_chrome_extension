@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "リンクにnoopenerを追加するやつ",
-  "version": "2",
-  "description": "リンクのrel属性にnoopenerを追加し安全性を確保します。noopenerを追加するために読み取りと書き換え権限を必要とします。",
+  "version": "2.0.1",
+  "description": "閲覧したWebサイト上にあるtarget=_blankのリンクに対してrel=noopenerを追加することで、_blankで開らかれたWebサイトからの攻撃をブロックします。",
   "icons": {
     "128": "icon_128.png"
   },
